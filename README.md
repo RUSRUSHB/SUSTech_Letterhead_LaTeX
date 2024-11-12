@@ -14,6 +14,6 @@
 
 请见：[SUSTech_Letterhead.pdf](./SUSTech_Letterhead.pdf)
 
-![预览1](./figure/Preview_1.png)
+![预览1](./figure/SUSTech_Letterhead-1.png)
 
-![预览2](./figure/Preview_2.png)
+![预览2](./figure/SUSTech_Letterhead-2.png)
